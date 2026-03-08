@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+beautifulsoup4
+requests
+langchain
+langchain-core
+langchain-community
+duckduckgo-search
+tqdm
+langchain_groq
+ddgs
+rank_bm25
