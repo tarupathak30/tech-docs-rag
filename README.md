@@ -17,5 +17,5 @@ Built with FastAPI, FAISS, LangChain, and inference via Groq.
 
 Architecture 
 
-![Alt text for the diagram][images/architecture-diagram.png]  
+![System Architecture][images/architecture-diagram.png]  
 
