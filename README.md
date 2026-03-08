@@ -16,25 +16,7 @@ Built with FastAPI, FAISS, LangChain, and inference via Groq.
 
 
 Architecture 
-Client Request
-      │
-      ▼
- FastAPI API Layer
-      │
-      ▼
-   RAG Pipeline
-      │
-      ├── Query Embedding
-      │
-      ├── Hybrid Retrieval
-      │     ├─ Vector Search (FAISS)
-      │     └─ Keyword Search
-      │
-      ├── Reranking
-      │
-      ├── Context Builder
-      │
-      └── LLM Generation (Groq)
+  
 
 
 
