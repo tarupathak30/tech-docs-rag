@@ -5,7 +5,7 @@
 
 
 
-TechDocs RAG API
+TechDocs RAG System
 
 A Retrieval-Augmented Generation system for answering technical documentation questions using semantic search and large language models.
 
@@ -16,10 +16,6 @@ Built with FastAPI, FAISS, LangChain, and inference via Groq.
 
 
 Architecture 
-  
 
-
-
-
-
+![Alt text for the diagram][images/architecture-diagram.png]  
 
